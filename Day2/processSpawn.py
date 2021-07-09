@@ -1,4 +1,4 @@
-# Author: Mckenzie Mack
+# Author: Mckenzie Mack 
 # GenCyber Workshop
 
 from multiprocessing import Process
